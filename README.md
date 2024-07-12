@@ -2,6 +2,8 @@
 
 This is the boilerplate for the Medical Data Visualizer project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer
 
+# Brief analysis: 
+
 Some notes: 
 Values of 0 = always good
           1 = always bad
