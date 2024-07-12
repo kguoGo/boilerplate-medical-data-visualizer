@@ -12,7 +12,7 @@ ap_lo/ap_hi os diastolic/systolic blood pressure
 
 Below are the plots I generated: 
 ![medical_data_viz_count](https://github.com/user-attachments/assets/6ca06490-a584-43dc-b5ab-c4b0593651a0)
-It can be noted that in those who have cardiovascular diasese, there is a large difference in count between those who are overweight and those who are not as compared to those without cardiovascular dieases. Cholosterol levels also appear to be increased in comparison to those without cardiovascular dieases. Alcohol seems to be relatively indifferent between the groups. 
+It can be noted that in those who have cardiovascular diasese, there is a large difference in count between those who are overweight and those who are not as compared to those without cardiovascular dieases. Cholosterol levels also appear to be increased in comparison to those without cardiovascular dieases. Drinking alcohol or not seems to be relatively indifferent response on cardiovascular health between the groups. 
 
 
 ![medical_data_heatmap](https://github.com/user-attachments/assets/17484212-3e8b-4e11-8d6f-e6cdee178706)
